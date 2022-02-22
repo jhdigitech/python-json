@@ -16,3 +16,4 @@ value的資料類型：
 
 請參閱
 https://zh.wikipedia.org/wiki/JSON
+https://docs.python.org/3/library/xml.etree.elementtree.html
