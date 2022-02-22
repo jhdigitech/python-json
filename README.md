@@ -17,7 +17,7 @@ value的資料類型：
 https://zh.wikipedia.org/wiki/JSON
 
 JSON格式      Python格式
-========     ==========     
+   
 object         dict
 array          list
 string         str
