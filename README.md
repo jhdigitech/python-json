@@ -13,6 +13,7 @@ value的資料類型：
 4. array
 5. 物件（object）
 6. null類型
+
 https://zh.wikipedia.org/wiki/JSON
 
 JSON格式      Python格式
