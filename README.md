@@ -13,17 +13,5 @@ value的資料類型：
 4. array
 5. 物件（object）
 6. null類型
-
+請參閱
 https://zh.wikipedia.org/wiki/JSON
-
-JSON格式      Python格式
-   
-object         dict
-array          list
-string         str
-number         int
-number         float
-true           True
-false          False
-null           None
-
